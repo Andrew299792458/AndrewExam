@@ -1,0 +1,19 @@
+.myImage{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+.home{
+    max-width: 220px;
+    width: auto;
+    margin: 10px auto;
+    padding: 10px;
+    background-color: rgb(150, 150, 150);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    border-radius: 10px;
+}

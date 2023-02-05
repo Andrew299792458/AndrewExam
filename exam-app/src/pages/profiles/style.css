@@ -1,0 +1,33 @@
+.profiles{
+    justify-content: center;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 50px;
+    background-color: rgb(200, 200, 200);
+    border-radius: 10px;
+}
+.profile{
+    align-items: center;
+    padding: 10px;
+    background-color: rgb(150, 150, 150);
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    border-radius: 10px;
+}
+.picture{
+   
+    padding: 5px;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.img{
+height: 200px;
+    width: 200px;
+    object-fit: cover;
+    border-radius: 5px;
+}
